@@ -1,6 +1,7 @@
 {
-  "version": 1.00,
+  "version": 1.01,
   "changelog": {
-    "1.00": "test"
+    "1.00": "test",
+    "1.01": "automation & bug patches"
   }
 }
