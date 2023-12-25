@@ -1,9 +1,8 @@
 {
-  "version": 1.011,
+  "version": 1.012,
   "changelog": {
     "1.00": "test",
     "1.01": "automation & bug patches",
-    "1.010": "fixed a harmless mistake",
-    "1.011": "added a bit more stability"
+    "1.012": "descriptive error messages"
   }
 }
